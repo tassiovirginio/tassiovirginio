@@ -37,34 +37,54 @@
   <code><img alt="My Twitter" width="28" src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg" /></code>
 </a>
 
+<a href="http://lattes.cnpq.br/0517470966104640">
+  <code><img alt="My Lattes" width="28" src="https://www.flaticon.com/svg/static/icons/svg/3135/3135692.svg" /></code>
+</a>
+
 <br/><br/>
 
-## My Development Stack
+## Skills
 
-**Application and Data**
+**OS**
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
+<code><img height="32" src="https://www.iconfinder.com/icons/386451/download/svg/512" alt="Archlinux"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1526821983/3965/manjaro.png?1526821983" alt="Manjaro"/></code>
+<code><img height="32" src="https://www.iconfinder.com/icons/5367252/download/svg/512" alt="Ubuntu"/></code>
+
+**Languages**
+
+<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="Scala"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"/></code>
+<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" alt="Python"/></code>
+<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS9H0CRX9PaTJBa0v64U7WZilTZtW2HIACg&usqp=CAU" alt="Latex"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+**Frameworks**
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/files/se/343469/svg/wicket-seeklogo.com.svg" alt="Wicket"/></code>
+<code><img height="32" src="https://uploads-ssl.webflow.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="Flutter"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/struts.svg" alt="Struts"/></code>
+<code><img height="32" src="https://icon-library.com/images/a567a89183a1f645da4322052f102092.png" alt="Ruby on Rails"/></code>
+<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwyllgUALAt9Tk1ekDuTlNdu_BQZ2Wy0a1A&usqp=CAU" alt="Play!"/></code>
+
+**DataBase**
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-
-**Utilities**
-
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
+<code><img height="32" src="https://img.stackshare.io/service/6958/yQ4763oZ_400x400.jpg" alt="HSQLDB"/></code>
+<code><img height="32" src="https://i.pinimg.com/474x/79/1e/87/791e87a23fb00cae1e3b6effe74ab0c7.jpg" alt="HSQLDB"/></code>
 
 **DevOps**
 
-<code><img height="32" src="https://www.iconfinder.com/icons/386451/download/svg/512" alt="Archlinux"/></code>
+<code><img height="32" src="https://camo.githubusercontent.com/3ec75cb1c3278cce3c661d3bcf72a4eca75db241a6ace648ea014b02f3f44458/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67" alt="Ho My ZSH"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins"/></code>
 
 <br/>
 
@@ -73,7 +93,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tassiovirginio&show_icons=true&theme=dracula" alt="Tássio's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tassiovirginio&show_icons=true&theme=tokyonight" alt="Tássio's github stats" />
 </p>
 
 <br/>
