@@ -93,6 +93,12 @@
 <br/>
 
 <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassiovirginio&layout=compact&theme=tokyonight" alt="Tássio's languages" />
+</p>
+
+<br/>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tassiovirginio&show_icons=true&theme=tokyonight" alt="Tássio's github stats" />
 </p>
 
