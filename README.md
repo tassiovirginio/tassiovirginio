@@ -1,4 +1,5 @@
-# Live Long and Prosper
+# Live Long and Prosper <img width="" src="https://icons.iconarchive.com/icons/google/noto-emoji-people-bodyparts/48/11972-vulcan-salute-light-skin-tone-icon.png" />
+
 
 <img align="right" width="40%" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Basecamp sky" />
 
@@ -11,8 +12,6 @@
   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_do_Tocantins.svg" alt="Tocantins" />
   <b>Tocantins</b>.
 </p>
-
-<br/>
 
 ### Talking about me
 
@@ -42,7 +41,7 @@
   <code><img alt="My Lattes" width="28" src="http://simpleicon.com/wp-content/uploads/note-64x64.png" /></code>
 </a>
 
-<br/><br/>
+<br/>
 
 ## Skills
 
@@ -105,8 +104,15 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tassiovirginio&theme=tokyonight" alt="Tássio's github stats" />
+</p>
+
+<br/>
+
 <p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/tassiovirginio/tassiovirginio" alt="Visitors badge" />
    </a>
 </p>
+
