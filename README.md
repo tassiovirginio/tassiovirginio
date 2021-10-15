@@ -1,8 +1,9 @@
-# Live Long and Prosper <img width="30" src="https://www.flaticon.com/svg/static/icons/svg/626/626598.svg" alt="Sunglasses emoji" />
+# Live Long and Prosper
 
 <img align="right" width="40%" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my page!
+
 <p>
   I'm Tássio, Backend developer from 
   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg" alt="Bahia" />
@@ -22,23 +23,23 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/tassiovirginio/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://simpleicons.org/icons/linkedin.svg" /></code>
 </a>
 
 <a href="mailto:tassiovirginio+github@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://simpleicons.org/icons/maildotru.svg" /></code>
 </a>
 
 <a href="https://tassiovirginio.com/">
-  <code><img alt="My Site" width="28" src="https://www.flaticon.com/svg/static/icons/svg/921/921490.svg" /></code>
+  <code><img alt="My Site" width="28" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" /></code>
 </a>
 
 <a href="https://twitter.com/tassiovirginio">
-  <code><img alt="My Twitter" width="28" src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg" /></code>
+  <code><img alt="My Twitter" width="28" src="https://simpleicons.org/icons/twitter.svg" /></code>
 </a>
 
 <a href="http://lattes.cnpq.br/0517470966104640">
-  <code><img alt="My Lattes" width="28" src="https://www.flaticon.com/svg/static/icons/svg/3135/3135692.svg" /></code>
+  <code><img alt="My Lattes" width="28" src="http://simpleicon.com/wp-content/uploads/note-64x64.png" /></code>
 </a>
 
 <br/><br/>
@@ -53,11 +54,11 @@
 
 **Languages**
 
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg" alt="Java"/></code>
+<code><img height="32" src="https://simpleicons.org/icons/java.svg" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="Scala"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" alt="Python"/></code>
+<code><img height="32" src="https://simpleicons.org/icons/python.svg" alt="Python"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS9H0CRX9PaTJBa0v64U7WZilTZtW2HIACg&usqp=CAU" alt="Latex"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
