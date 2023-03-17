@@ -22,7 +22,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/tassiovirginio/">
-  <code><img alt="My linkedin" width="28" src="https://simpleicons.org/icons/linkedin.svg" /></code>
+  <code><img style="background-color:white;" alt="My linkedin" width="28" src="https://simpleicons.org/icons/linkedin.svg" /></code>
 </a>
 
 <a href="mailto:tassiovirginio+github@gmail.com">
