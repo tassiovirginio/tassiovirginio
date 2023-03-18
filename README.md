@@ -19,9 +19,10 @@
 
 - 🌱 I’m currently learning about Test Smells; 
 
+### Nostr
+- public key: npub15p98l0qyh3582rz5zznd7hehmde3jxqxv9uddrgaadyw5ruynceqr0mmnc
+
 ### Where to find me:
-
-
 
 <a href="https://www.linkedin.com/in/tassiovirginio/">
   <code><img alt="My Linkedin" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></code>
@@ -55,7 +56,7 @@
 
 **Languages**
 
-<code><img height="32" src="https://simpleicons.org/icons/java.svg" alt="Java"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="Scala"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"/></code>
