@@ -28,7 +28,7 @@
 </a>
 
 <a href="mailto:tassiovirginio+github@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://simpleicons.org/icons/maildotru.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></code>
 </a>
 
 <a href="https://tassiovirginio.com/">
