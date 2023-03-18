@@ -31,16 +31,16 @@
   <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></code>
 </a>
 
-<a href="https://tassiovirginio.com/">
-  <code><img alt="My Site" width="28" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" /></code>
+<a href="https://tassiovirginio.github.io/">
+  <code><img alt="My Site" width="28" src="https://www.shareicon.net/download/2017/06/05/886731_home.ico" /></code>
 </a>
 
 <a href="https://twitter.com/tassiovirginio">
-  <code><img alt="My Twitter" width="28" src="https://simpleicons.org/icons/twitter.svg" /></code>
+  <code><img alt="My Twitter" width="28" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" /></code>
 </a>
 
 <a href="http://lattes.cnpq.br/0517470966104640">
-  <code><img alt="My Lattes" width="28" src="http://simpleicon.com/wp-content/uploads/note-64x64.png" /></code>
+  <code><img alt="My Lattes" width="28" src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/image.png" /></code>
 </a>
 
 <br/>
