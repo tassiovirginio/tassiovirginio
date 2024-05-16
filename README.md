@@ -9,8 +9,7 @@
   I'm Tássio, Backend developer from 
   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg" alt="Bahia" />
   <b>Bahia</b>, currently living in
-  <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_do_Tocantins.svg" alt="Tocantins" />
-  <b>Tocantins</b>.
+  <b>Salvador</b>.
 </p>
 
 ### Talking about me
