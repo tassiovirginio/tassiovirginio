@@ -1,6 +1,8 @@
-# 🖖 Live Long and Prosper
-
+<p>
 <img align="right" width="300" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Basecamp Sky" />
+</p>
+
+# 🖖 Live Long and Prosper
 
 ### Olá! Eu sou o Tássio 👨‍💻  
 Professor, pesquisador e desenvolvedor backend  
