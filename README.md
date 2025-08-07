@@ -16,7 +16,7 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 - 🔍 Pesquisando sobre **Test Smells**, **Large Language Models (LLMs)** e **Qualidade de Testes**
 - 🚀 Apaixonado por Linux, código limpo e ciência aberta
 - 🧠 Sempre aprendendo algo novo
-<div style="display:flex;align-items:center;gap:0.5em;">
+- <div style="display:flex;align-items:center;gap:0.5em;">
   <span style="color:#1793d1;font-size:1.5em;">󰣇</span>
   <span>I use <strong>Arch</strong>, btw.</span>
 </div>
