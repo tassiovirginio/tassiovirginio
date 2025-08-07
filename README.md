@@ -90,9 +90,8 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 ---
 
 ## 📈 GitHub Stats
-
-![Tássio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tassiovirginio&show_icons=true&theme=radical)
 ![Tássio's GitHub Streak](https://streak-stats.demolab.com?user=tassiovirginio&theme=radical)
+![Tássio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tassiovirginio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiovirginio&layout=compact&theme=radical)
 
 ---
