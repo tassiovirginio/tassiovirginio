@@ -11,23 +11,39 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 ## 🧠 Sobre mim
 
 - 👨‍🏫 Professor no Instituto Federal do Tocantins (IFTO)
-- 🎓 Doutorando em Ciência da Computação (UFBA)
-- 🔍 Pesquisando sobre **Test Smells**, LLMs e Qualidade de Testes
+- 🎓 Doutorando em Ciência da Computação na UFBA
+- 🔍 Pesquisando sobre **Test Smells**, **Large Language Models (LLMs)** e **Qualidade de Testes**
 - 🚀 Apaixonado por Linux, código limpo e ciência aberta
 - 🧠 Sempre aprendendo algo novo
-- 󰣇  I use arch btw
+- 󰣇 I use Arch, btw
 
 ---
 
-## 🧪 Projetos em destaque
+## 🧪 Projetos em Destaque
 
 ### 🔬 [DNose](https://github.com/tassiovirginio/dnose)  
 > Detector de Test Smells para código Dart  
-🔗 [Site oficial](https://dnose-ts.github.io) • [Demo](https://dnose.onrender.com) • [DOI (Zenodo)](https://doi.org/10.5281/zenodo.15484918)
+> Ferramenta focada em legibilidade e manutenibilidade de testes automatizados
 
-### 🔧 [AriesLinter](https://github.com/tassiovirginio/dnose)  
-> Ferramenta para prever Test Smells antes que eles apareçam  
-📄 Aceito no **SBES 2025** – Trilha Tools
+[![SBES 2025 Tools](https://img.shields.io/badge/SBES%202025-Tools%20Track-blueviolet?style=for-the-badge)](https://cbsoft2025.org)  
+🔗 [Site oficial](https://dnose-ts.github.io) • [Demo online](https://dnose.onrender.com) • [DOI (Zenodo)](https://doi.org/10.5281/zenodo.15484918)
+
+---
+
+### 🧠 [AriesLinter](https://github.com/viRafael/arieslinter)  
+> Ferramenta que **prevê Test Smells antes que aconteçam**  
+> Usa heurísticas e análise estática para antecipar problemas em testes Java
+
+[![SBES 2025 Tools](https://img.shields.io/badge/SBES%202025-Tools%20Track-blueviolet?style=for-the-badge)](https://cbsoft2025.org)  
+🔗 [Repositório no GitHub](https://github.com/viRafael/arieslinter)
+
+---
+
+### ☕ [JNose](https://github.com/arieslab/jnose)  
+> Detector de Test Smells para código Java com suporte a métricas de cobertura, visualização e análise histórica
+
+[![CBSoft 2020](https://img.shields.io/badge/CBSoft-2020-blue?style=for-the-badge)](https://cbsoft2020.ufba.br)  
+🔗 [Documentação](https://jnose.readthedocs.io) • [Repositório](https://github.com/arieslab/jnose) • [Site antigo](https://jnosetest.github.io)
 
 ---
 
