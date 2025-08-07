@@ -17,7 +17,7 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 - 🚀 Apaixonado por Linux, código limpo e ciência aberta
 - 🧠 Sempre aprendendo algo novo
 - <div style="display:flex;align-items:center;gap:0.5em;">
-  <span style="color:#1793d1;font-size:1.5em;">󰣇</span>
+  <span style="color:#1793d1;font-size:1.5em;">󰣇 </span>
   <span>I use <strong>Arch</strong>, btw.</span>
 </div>
 
