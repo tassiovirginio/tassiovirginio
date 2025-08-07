@@ -11,7 +11,7 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 ## 🧠 Sobre mim
 
 - 👨‍🏫 Professor no Instituto Federal do Tocantins (IFTO)
-- 🎓 Doutorando em Ciência da Computação (UFBA/UFPR)
+- 🎓 Doutorando em Ciência da Computação (UFBA)
 - 🔍 Pesquisando sobre **Test Smells**, LLMs e Qualidade de Testes
 - 🚀 Apaixonado por Linux, código limpo e ciência aberta
 - 🧠 Sempre aprendendo algo novo
