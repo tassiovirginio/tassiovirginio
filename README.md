@@ -18,7 +18,7 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 - 🧠 Sempre aprendendo algo novo
 - <div style="display:flex;align-items:center;gap:0.5em;">
     <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/120px-Arch_Linux_%22Crystal%22_icon.svg.png"></img>
-    <span> I use <strong>Arch</strong>, btw.</span>
+    <span> I use <strong>Archlinux</strong>, btw.</span>
   </div>
 
 ---
