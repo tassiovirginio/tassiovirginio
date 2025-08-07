@@ -20,7 +20,7 @@ Atualmente morando em **Salvador/BA 🇧🇷**
     <span style="color:#1793d1;font-size:1.5em;">󰣇   </span>
     <span> I use <strong>Arch</strong>, btw.</span>
   </div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/120px-Arch_Linux_%22Crystal%22_icon.svg.png"></img>
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/120px-Arch_Linux_%22Crystal%22_icon.svg.png"></img>
 ---
 
 <h3>🧪 Projetos em Destaque </h3>
