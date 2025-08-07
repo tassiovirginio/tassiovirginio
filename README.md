@@ -2,6 +2,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Basecamp Sky" />
 </p>
 
+<p>
 # 🖖 Live Long and Prosper
 
 ### Olá! Eu sou o Tássio 👨‍💻  
@@ -108,3 +109,5 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 <!-- ![Profile Views](https://visitcount.itsvg.in/api?id=tassiovirginio&icon=0&color=0) -->
 
 <!-- Proudly crafted with care and caffeine ☕ -->
+
+</p>
