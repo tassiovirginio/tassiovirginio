@@ -9,7 +9,7 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 
 ---
 
-## 🧠 Sobre mim
+<h3>🧠 Sobre mim</h3>
 
 - 👨‍🏫 Professor no Instituto Federal do Tocantins (IFTO)
 - 🎓 Doutorando em Ciência da Computação na UFBA
@@ -20,7 +20,7 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 
 ---
 
-## 🧪 Projetos em Destaque
+<h3>🧪 Projetos em Destaque </h3>
 
 ### 🔬 [DNose](https://github.com/tassiovirginio/dnose)  
 > Detector de Test Smells para código Dart  
