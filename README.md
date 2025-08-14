@@ -1,7 +1,7 @@
 <div align="center">
 <img align="right" width="300" src="https://github.com/tassiovirginio/tassiovirginio/blob/main/animacao.gif?raw=true" alt="Basecamp Sky" />
 </div>
-# 🖖 Live Long and Prosper
+<h1>🖖 Live Long and Prosper</h1>
 
 ### Olá! Eu sou o Tássio 👨‍💻  
 Professor, pesquisador e desenvolvedor backend  
