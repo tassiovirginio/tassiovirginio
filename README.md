@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" width="300" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="Basecamp Sky" />
+<img align="right" width="300" src="https://github.com/tassiovirginio/tassiovirginio/blob/main/animacao.gif?raw=true" alt="Basecamp Sky" />
 </div>
 # 🖖 Live Long and Prosper
 
