@@ -110,4 +110,3 @@ Atualmente morando em **Salvador/BA 🇧🇷**
 <!-- ![Profile Views](https://visitcount.itsvg.in/api?id=tassiovirginio&icon=0&color=0) -->
 
 <!-- Proudly crafted with care and caffeine ☕ -->
-
