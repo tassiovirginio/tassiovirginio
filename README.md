@@ -110,7 +110,7 @@ Currently living in **Salvador/BA 🇧🇷**
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tassiovirginio&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tassiovirginio&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tassiovirginio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiovirginio&layout=compact&theme=radical)
 
