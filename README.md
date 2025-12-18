@@ -21,6 +21,17 @@ Currently living in **Salvador/BA 🇧🇷**
 
 ---
 
+## 🌐 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tassiovirginio)
+[![Twitter/X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/msc_tassio)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://tassiovirginio.github.io)
+[![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXElEQVQ4T6WTPUsCURCFv4skthKL0l6AwC8QOAjogvQI+ANqKxCdRN5AUQCxAIf4WNsbgRyHwWFJrbktudW8yxLsfieN3zpnZ2/eeZEMEnAEcxR5SYkiXAK3gXYEcIIRWRY9KSmB3OwNnNUjN6s6KPRkEFDHgOd3okivbCcxEUKT8TT6bFXEZMI9WFS2GxOc6zXAa6KuIznJ7yYQplFstNOhNkYBl5DsJjKy6sDGkcYmNsoJcAh/EkwDqLaSgcm2XBeoVIE9pKldDEufVa+Y4rMtPyC1TbyMm5fjU5xwX9JfZ4i1Pnb7bnzEY7Mr0DvmwDU76lo9jxgQ95D2ND2xA83cNsnuygJOsdJ/wD9lm2QpBOhwQAAAABJRU5ErkJggg==)](http://lattes.cnpq.br/0517470966104640)
+[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tassiovirginio+github@gmail.com)
+
+
+---
+
 <h3>🧪 Featured Projects</h3>
 
 ### 🦀 [try-rs](https://github.com/tassiovirginio/try-rs)
@@ -95,16 +106,6 @@ Currently living in **Salvador/BA 🇧🇷**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4C4C4C?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-
----
-
-## 🌐 Where to find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tassiovirginio)
-[![Twitter/X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/msc_tassio)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://tassiovirginio.github.io)
-[![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXElEQVQ4T6WTPUsCURCFv4skthKL0l6AwC8QOAjogvQI+ANqKxCdRN5AUQCxAIf4WNsbgRyHwWFJrbktudW8yxLsfieN3zpnZ2/eeZEMEnAEcxR5SYkiXAK3gXYEcIIRWRY9KSmB3OwNnNUjN6s6KPRkEFDHgOd3okivbCcxEUKT8TT6bFXEZMI9WFS2GxOc6zXAa6KuIznJ7yYQplFstNOhNkYBl5DsJjKy6sDGkcYmNsoJcAh/EkwDqLaSgcm2XBeoVIE9pKldDEufVa+Y4rMtPyC1TbyMm5fjU5xwX9JfZ4i1Pnb7bnzEY7Mr0DvmwDU76lo9jxgQ95D2ND2xA83cNsnuygJOsdJ/wD9lm2QpBOhwQAAAABJRU5ErkJggg==)](http://lattes.cnpq.br/0517470966104640)
-[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tassiovirginio+github@gmail.com)
 
 ---
 
