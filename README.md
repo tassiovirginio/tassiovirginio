@@ -92,6 +92,7 @@ Currently living in **Salvador/BA 🇧🇷**
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1.svg?style=for-the-badge&logo=bulma&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Cargo](https://img.shields.io/badge/cargo-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Databases
 
@@ -105,6 +106,7 @@ Currently living in **Salvador/BA 🇧🇷**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4C4C4C?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+[![Omarchy OS](https://img.shields.io/badge/Omarchy_OS-green?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://omarchy.org/)
 
 ---
 
