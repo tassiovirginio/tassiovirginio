@@ -42,12 +42,12 @@ Here are some of the tools I use and recommend:
 * **[sudo-rs](https://github.com/memorysafety/sudo-rs)** - Memory-safe implementation of sudo in Rust
 * **[yazi](https://github.com/sxyazi/yazi)** - Blazing fast terminal file manager
 * **[superseedr](https://github.com/tassiovirginio/superseedr)** - Seeding tool
-* **[termusic](https://github.com/tramhao/termusic)** - TerMusic
-* **[yt-x](https://github.com/Benexl/yt-x)** - YT-X
-* **[paru](https://github.com/Morganamilo/paru)** - paru
-* **[superfile](https://superfile.dev/)** - superfile
-* **[sqlit](https://github.com/Maxteabag/sqlit)** - sqlit
-* **[sqlit](https://github.com/Maxteabag/sqlit)** - bat
+* **[termusic](https://github.com/tramhao/termusic)** - Music Player TUI written in Rust
+* **[yt-x](https://github.com/Benexl/yt-x)** - Browse youtube from your terminal
+* **[paru](https://github.com/Morganamilo/paru)** - Feature packed AUR helper
+* **[superfile](https://superfile.dev/)** - Perfect Terminal-based file manager
+* **[sqlit](https://github.com/Maxteabag/sqlit)** - A user friendly TUI for SQL databases.
+* **[bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings.
 
 ### 🖥️ Operating System
 * **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
