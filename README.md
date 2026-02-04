@@ -40,6 +40,9 @@ Here are some of the tools I use and recommend:
 * **[yazi](https://github.com/sxyazi/yazi)** - Blazing fast terminal file manager
 * **[superseedr](https://github.com/tassiovirginio/superseedr)** - Seeding tool
 * **[termusic](https://github.com/tramhao/termusic)** - TerMusic
+* **[yt-x](https://github.com/Benexl/yt-x)** - YT-X
+* **[paru](https://github.com/Morganamilo/paru)** - paru
+* **[superfile](https://superfile.dev/)** - superfile
 
 ### 🖥️ Operating System
 * **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
