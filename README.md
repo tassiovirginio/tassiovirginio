@@ -27,7 +27,11 @@ Here are some of the tools I use and recommend:
 
 ### 🌐 Browsers
 * **[Brave](https://brave.com/)** - Privacy-focused browser with built-in ad blocking
-* **[Qutebrowser](https://qutebrowser.org/)** - Keyboard-driven, vim-like browser
+
+#### -> Plugins
+* [vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=pt-br) - The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim
+* [Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=pt-br) - Ultimate tool to supercharge your YouTube experience with a host of highly customizable features
+* [KeePassXC-Browser](https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk?hl=pt-br) - KeePassXC integration for modern browsers
 
 ### 🛠️ Terminal 
 * **[Kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based
