@@ -21,12 +21,37 @@ Currently living in **Salvador/BA 🇧🇷**
 
 ---
 
+## 💡 My Toolbox
+
+Here are some of the tools I use and recommend:
+
+### 🌐 Browsers
+* **[Brave](https://brave.com/)** - Privacy-focused browser with built-in ad blocking
+* **[Qutebrowser](https://qutebrowser.org/)** - Keyboard-driven, vim-like browser
+
+### ✏️ Editors & IDEs
+* **[Fresh](https://github.com/fresh-editor/fresh)** - Modern text editor
+* **[Neovim](https://neovim.io/)** - Hyperextensible Vim-based text editor
+* **[VSCode](https://code.visualstudio.com/)** - Powerful and versatile code editor
+
+### 🛠️ Terminal Tools (TUI/CLI)
+* **[try-rs](https://github.com/tassiovirginio/try-rs)** - Workspace manager for temporary experiments
+* **[sudo-rs](https://github.com/memorysafety/sudo-rs)** - Memory-safe implementation of sudo in Rust
+* **[yazi](https://github.com/sxyazi/yazi)** - Blazing fast terminal file manager
+* **[superseedr](https://github.com/tassiovirginio/superseedr)** - Seeding tool
+
+### 🖥️ Operating System
+* **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
+* **[Arch Linux](https://archlinux.org/)** - The legendary rolling release distro
+
+---
+
 ## 🌐 Where to find me
 
 [![Twitter/X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/msc_tassio)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://tassiovirginio.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tassiovirginio)
-[![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXElEQVQ4T6WTPUsCURCFv4skthKL0l6AwC8QOAjogvQI+ANqKxCdRN5AUQCxAIf4WNsbgRyHwWFJrbktudW8yxLsfieN3zpnZ2/eeZEMEnAEcxR5SYkiXAK3gXYEcIIRWRY9KSmB3OwNnNUjN6s6KPRkEFDHgOd3okivbCcxEUKT8TT6bFXEZMI9WFS2GxOc6zXAa6KuIznJ7yYQplFstNOhNkYBl5DsJjKy6sDGkcYmNsoJcAh/EkwDqLaSgcm2XBeoVIE9pKldDEufVa+Y4rMtPyC1TbyMm5fjU5xwX9JfZ4i1Pnb7bnzEY7Mr0DvmwDU76lo9jxgQ95D2ND2xA83cNsnuygJOsdJ/wD9lm2QpBOhwQAAAABJRU5ErkJggg==)](http://lattes.cnpq.br/0517470966104640)
+[![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXElEQVQ4T6WTPUsCURCFv4skthKL0l6AwC8QOAjogvQ[...]
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tassiovirginio+github@gmail.com)
 
 
