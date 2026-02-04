@@ -39,6 +39,7 @@ Here are some of the tools I use and recommend:
 * **[sudo-rs](https://github.com/memorysafety/sudo-rs)** - Memory-safe implementation of sudo in Rust
 * **[yazi](https://github.com/sxyazi/yazi)** - Blazing fast terminal file manager
 * **[superseedr](https://github.com/tassiovirginio/superseedr)** - Seeding tool
+* **[termusic](https://github.com/tramhao/termusic)** - TerMusic
 
 ### 🖥️ Operating System
 * **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
@@ -51,8 +52,9 @@ Here are some of the tools I use and recommend:
 [![Twitter/X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/msc_tassio)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://tassiovirginio.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tassiovirginio)
-[![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXElEQVQ4T6WTPUsCURCFv4skthKL0l6AwC8QOAjogvQ[...]
-[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tassiovirginio+github@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg)](http://lattes.cnpq.br/0517470966104640)
+[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg)](mailto:tassiovirginio+github@gmail.com)
+
 
 
 ---
