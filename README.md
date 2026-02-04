@@ -29,7 +29,9 @@ Here are some of the tools I use and recommend:
 * **[Brave](https://brave.com/)** - Privacy-focused browser with built-in ad blocking
 * **[Qutebrowser](https://qutebrowser.org/)** - Keyboard-driven, vim-like browser
 
-### 🛠️ Terminal
+### 🛠️ Terminal 
+* **[Kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based
+* **[Rio](https://rioterm.com/)** - A modern terminal for the 21st century
 * **[Fish Shell](https://fishshell.com/)** - fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
 
 ### ✏️ Editors & IDEs
@@ -46,8 +48,10 @@ Here are some of the tools I use and recommend:
 * **[yt-x](https://github.com/Benexl/yt-x)** - Browse youtube from your terminal
 * **[paru](https://github.com/Morganamilo/paru)** - Feature packed AUR helper
 * **[superfile](https://superfile.dev/)** - Perfect Terminal-based file manager
-* **[sqlit](https://github.com/Maxteabag/sqlit)** - A user friendly TUI for SQL databases.
-* **[bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings.
+* **[sqlit](https://github.com/Maxteabag/sqlit)** - A user friendly TUI for SQL databases
+* **[bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings
+* **[cpx](https://github.com/11happy/cpx)** - cp reimagined
+
 
 ### 🖥️ Operating System
 * **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
