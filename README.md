@@ -43,6 +43,7 @@ Here are some of the tools I use and recommend:
 * **[yt-x](https://github.com/Benexl/yt-x)** - YT-X
 * **[paru](https://github.com/Morganamilo/paru)** - paru
 * **[superfile](https://superfile.dev/)** - superfile
+* **[sqlit](https://github.com/Maxteabag/sqlit)** - sqlit
 
 ### 🖥️ Operating System
 * **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
