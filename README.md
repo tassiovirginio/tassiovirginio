@@ -30,7 +30,7 @@ Here are some of the tools I use and recommend:
 * **[Qutebrowser](https://qutebrowser.org/)** - Keyboard-driven, vim-like browser
 
 ### 🛠️ Terminal
-* **[Fish Shell](https://fishshell.com/)** - Fish Shell
+* **[Fish Shell](https://fishshell.com/)** - fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
 
 ### ✏️ Editors & IDEs
 * **[Fresh](https://github.com/fresh-editor/fresh)** - Modern text editor
