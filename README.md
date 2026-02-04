@@ -49,8 +49,8 @@ Here are some of the tools I use and recommend:
 
 ## 🌐 Where to find me
 
-[![Twitter/X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/msc_tassio)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://tassiovirginio.github.io)
+[![Twitter/X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tassiovirginio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tassiovirginio)
 [![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg?style=for-the-badge)](http://lattes.cnpq.br/0517470966104640)
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge)](mailto:tassiovirginio+github@gmail.com)
