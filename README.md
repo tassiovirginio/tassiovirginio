@@ -29,6 +29,9 @@ Here are some of the tools I use and recommend:
 * **[Brave](https://brave.com/)** - Privacy-focused browser with built-in ad blocking
 * **[Qutebrowser](https://qutebrowser.org/)** - Keyboard-driven, vim-like browser
 
+### 🛠️ Terminal
+* **[Fish Shell](https://fishshell.com/)** - Fish Shell
+
 ### ✏️ Editors & IDEs
 * **[Fresh](https://github.com/fresh-editor/fresh)** - Modern text editor
 * **[Neovim](https://neovim.io/)** - Hyperextensible Vim-based text editor
@@ -44,6 +47,7 @@ Here are some of the tools I use and recommend:
 * **[paru](https://github.com/Morganamilo/paru)** - paru
 * **[superfile](https://superfile.dev/)** - superfile
 * **[sqlit](https://github.com/Maxteabag/sqlit)** - sqlit
+* **[sqlit](https://github.com/Maxteabag/sqlit)** - bat
 
 ### 🖥️ Operating System
 * **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
