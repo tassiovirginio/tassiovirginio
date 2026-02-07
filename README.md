@@ -53,8 +53,15 @@ Here are some of the tools I use and recommend:
 * **[paru](https://github.com/Morganamilo/paru)** - Feature packed AUR helper
 * **[superfile](https://superfile.dev/)** - Perfect Terminal-based file manager
 * **[sqlit](https://github.com/Maxteabag/sqlit)** - A user friendly TUI for SQL databases
-* **[bat](https://github.com/sharkdp/bat)** - A cat(1) clone with wings
+* **[bat](https://github.com/sharkdp/bat)** - A cat clone with wings
 * **[cpx](https://github.com/11happy/cpx)** - cp reimagined
+* **[fisher](https://github.com/jorgebucaran/fisher)** - plugin manager for fish shell
+* **[fzf](https://github.com/junegunn/fzf)** - A command-line fuzzy finder
+* **[fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to 'find'
+* **[mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner
+* **[thefuck](https://github.com/nvbn/thefuck)** - Magnificent app which corrects your previous console command
+* **[zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells
+* **[starship](https://github.com/starship/starship)** - The minimal, blazing-fast, and infinitely customizable prompt for any shell
 
 
 ### 🖥️ Operating System
