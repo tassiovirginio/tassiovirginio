@@ -26,7 +26,7 @@ Currently living in **Salvador/BA 🇧🇷**
 Here are some of the tools I use and recommend:
 
 ### 🌐 Browsers
-* **[Brave Origin](https://brave.com/](https://brave.com/origin/linux/nightly)** - Privacy-focused browser with built-in ad blocking
+* **[Brave Origin](https://brave.com/origin/linux/nightly)** - Privacy-focused browser with built-in ad blocking
 
 #### -> Plugins
 * [vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=pt-br) - The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim
