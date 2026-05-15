@@ -65,7 +65,8 @@ Here are some of the tools I use and recommend:
 
 
 ### 🖥️ Operating System
-* **[Omarchy](https://omarchy.org/)** - Based on Arch Linux
+* **[Niri](https://github.com/niri-wm/niri)** - A scrollable-tiling Wayland compositor
+* **[Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)** - Desktop shell for wayland compositors built with Quickshell & GO
 * **[Arch Linux](https://archlinux.org/)** - The legendary rolling release distro
 
 ---
