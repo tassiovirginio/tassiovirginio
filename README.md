@@ -8,7 +8,7 @@
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=tassiovirginio&style=for-the-badge&color=7B2FFF&label=VIEWS)
+![try-rs stars](https://img.shields.io/github/stars/tassiovirginio/try-rs?style=for-the-badge&logo=github&color=7B2FFF&labelColor=0A0E27&label=TRY-RS%20STARS)
 ![Followers](https://img.shields.io/github/followers/tassiovirginio?style=for-the-badge&logo=github&color=00A8B5&labelColor=0A0E27)
 ![Arch](https://img.shields.io/badge/ARCH_LINUX-BTW-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0A0E27)
 ![Location](https://img.shields.io/badge/PALMAS%2FTO-BRAZIL-FF2BD6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0E27)
