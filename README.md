@@ -29,33 +29,31 @@ Here are some of the tools I use and recommend:
 * **[Brave Origin](https://brave.com/origin/linux/nightly)** - Privacy-focused browser with built-in ad blocking
 
 #### -> Plugins
-* [vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=pt-br) - The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim
 * [Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=pt-br) - Ultimate tool to supercharge your YouTube experience with a host of highly customizable features
 * [KeePassXC-Browser](https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk?hl=pt-br) - KeePassXC integration for modern browsers
 
 ### 🛠️ Terminal 
-* **[Kitty](https://github.com/kovidgoyal/kitty)** - Cross-platform, fast, feature-rich, GPU based
-* **[Rio](https://rioterm.com/)** - A modern terminal for the 21st century
+* **[Foot](https://codeberg.org/dnkl/foot)** - A fast, lightweight and minimalistic Wayland terminal emulator
 * **[Fish Shell](https://fishshell.com/)** - fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family
 
 ### ✏️ Editors & IDEs
-* **[Fresh](https://github.com/fresh-editor/fresh)** - Modern text editor
 * **[Neovim](https://neovim.io/)** - Hyperextensible Vim-based text editor
-* **[VSCode](https://code.visualstudio.com/)** - Powerful and versatile code editor
+
+### 🛠️ Tools (GUI)
+* **[zapfast](https://zapfast.rocks/)** - Super Fast Native whtasapp client (Rust)
+* **[spotifast](https://spotifast.rocks/)** - Super Fast Native spotify client (Rust)
+* **[Suit All Craft](https://getartcraft.com/)** - Office e many write in Rust (Rust)
 
 ### 🛠️ Terminal Tools (TUI/CLI)
-* **[try-rs](https://github.com/tassiovirginio/try-rs)** - Workspace manager for temporary experiments
-* **[sudo-rs](https://github.com/memorysafety/sudo-rs)** - Memory-safe implementation of sudo in Rust
+* **[try-rs](https://github.com/tassiovirginio/try-rs)** - Workspace manager for temporary experiments (Rust)
+* **[sudo-rs](https://github.com/memorysafety/sudo-rs)** - Memory-safe implementation of sudo in Rust (Rust)
 * **[yazi](https://github.com/sxyazi/yazi)** - Blazing fast terminal file manager
 * **[superseedr](https://github.com/tassiovirginio/superseedr)** - Seeding tool
-* **[termusic](https://github.com/tramhao/termusic)** - Music Player TUI written in Rust
 * **[yt-x](https://github.com/Benexl/yt-x)** - Browse youtube from your terminal
-* **[paru](https://github.com/Morganamilo/paru)** - Feature packed AUR helper
 * **[superfile](https://superfile.dev/)** - Perfect Terminal-based file manager
 * **[sqlit](https://github.com/Maxteabag/sqlit)** - A user friendly TUI for SQL databases
 * **[bat](https://github.com/sharkdp/bat)** - A cat clone with wings
 * **[cpx](https://github.com/11happy/cpx)** - cp reimagined
-* **[fisher](https://github.com/jorgebucaran/fisher)** - plugin manager for fish shell
 * **[fzf](https://github.com/junegunn/fzf)** - A command-line fuzzy finder
 * **[fd](https://github.com/sharkdp/fd)** - A simple, fast and user-friendly alternative to 'find'
 * **[mise](https://github.com/jdx/mise)** - dev tools, env vars, task runner
@@ -65,7 +63,7 @@ Here are some of the tools I use and recommend:
 
 
 ### 🖥️ Operating System
-* **[Niri](https://github.com/niri-wm/niri)** - A scrollable-tiling Wayland compositor
+* **[Niri](https://github.com/niri-wm/niri)** - A scrollable-tiling Wayland compositor (Rust)
 * **[Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)** - Desktop shell for wayland compositors built with Quickshell & GO
 * **[Arch Linux](https://archlinux.org/)** - The legendary rolling release distro
 
