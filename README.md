@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF2BD6&height=260&section=header&text=T%C3%81SSIO%20VIRG%C3%8DNIO&fontSize=58&fontColor=ffffff&fontAlignY=38&stroke=00F0FF&strokeWidth=1&animation=fadeIn&desc=%E2%9F%A8%20Professor%20%C2%B7%20Pesquisador%20%C2%B7%20Backend%20Developer%20%E2%9F%A9&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF2BD6&height=260&section=header&text=T%C3%81SSIO%20VIRG%C3%8DNIO&fontSize=58&fontColor=ffffff&fontAlignY=38&stroke=00F0FF&strokeWidth=1&animation=fadeIn&desc=%E2%9F%A8%20Professor%20%C2%B7%20Researcher%20%C2%B7%20Backend%20Developer%20%E2%9F%A9&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
 <a href="https://github.com/tassiovirginio">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F0FF&background=0A0E2700&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+%F0%9F%96%96+Live+Long+and+Prosper;%3E+Hi+there!+I'm+T%C3%A1ssio+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%3E+Researching+Test+Smells+%2B+LLMs+%2B+Test+Quality;%3E+Rust+%F0%9F%A6%80+%7C+Java+%E2%98%95+%7C+Dart+%7C+Scala+%7C+Python;%3E+I+use+Archlinux%2C+btw+%F0%9F%90%A7" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=tassiovirginio&style=for-the-badge&color=7B2FFF&label=VISITAS)
-![Seguidores](https://img.shields.io/github/followers/tassiovirginio?style=for-the-badge&logo=github&color=00A8B5&labelColor=0A0E27)
+![Views](https://komarev.com/ghpvc/?username=tassiovirginio&style=for-the-badge&color=7B2FFF&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/tassiovirginio?style=for-the-badge&logo=github&color=00A8B5&labelColor=0A0E27)
 ![Arch](https://img.shields.io/badge/ARCH_LINUX-BTW-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0A0E27)
-![Palmas](https://img.shields.io/badge/PALMAS%2FTO-BRASIL-FF2BD6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0E27)
+![Location](https://img.shields.io/badge/PALMAS%2FTO-BRAZIL-FF2BD6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0E27)
 
 </div>
 
@@ -23,7 +23,7 @@
 +--------------------------------------------------------------+
 |  USER      : tassiovirginio                                  |
 |  ROLE      : Professor / Researcher / Backend Developer      |
-|  LOCATION  : Palmas/TO, Brasil                               |
+|  LOCATION  : Palmas/TO, Brazil                               |
 |  OS        : Arch Linux (I use Archlinux, btw.)              |
 |  WM        : Niri | SHELL : Fish | EDITOR : Neovim           |
 |  STATUS    : Always learning something new                   |
@@ -34,11 +34,11 @@
 
 ## 🧠 `> about_me`
 
-- 👨‍🏫 Professor no **Instituto Federal do Tocantins (IFTO)**
-- 🎓 Doutorando em **Ciência da Computação** na **UFBA**
-- 🔍 Pesquisando **Test Smells**, **Large Language Models (LLMs)** e **Test Quality**
-- 🚀 Apaixonado por Linux, clean code e ciência aberta
-- 🧠 Sempre aprendendo algo novo
+- 👨‍🏫 Professor at the **Federal Institute of Tocantins (IFTO)**
+- 🎓 PhD student in **Computer Science** at **UFBA**
+- 🔍 Researching **Test Smells**, **Large Language Models (LLMs)**, and **Test Quality**
+- 🚀 Passionate about Linux, clean code, and open science
+- 🧠 Always learning something new
 - <img width="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/120px-Arch_Linux_%22Crystal%22_icon.svg.png" alt="Arch"/> I use **Archlinux**, btw.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FFF,100:FF2BD6&height=3" width="100%" alt="divider"/>
@@ -49,12 +49,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🦀 <a href="https://github.com/tassiovirginio/try-rs">try-rs</a></h3>
-      Workspace manager para experimentos temporários.<br/><br/>
+      Workspace manager for temporary experiments.<br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0A0E27"/>
     </td>
     <td width="50%" valign="top">
       <h3>🍃 <a href="https://neoleaf.science/">NeoLeaf</a></h3>
-      O editor LaTeX colaborativo online que não cobra absolutamente nada.<br/><br/>
+      The online collaborative LaTeX editor that charges you absolutely nothing.<br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0A0E27"/>
     </td>
   </tr>
@@ -64,71 +64,71 @@
 
 ## 💡 `> toolbox`
 
-Algumas das ferramentas que eu uso e recomendo:
+Here are some of the tools I use and recommend:
 
-### 🖥️ Sistema Operacional
+### 🖥️ Operating System
 
-| Ferramenta | Descrição |
+| Tool | Description |
 |---|---|
-| **[Niri](https://github.com/niri-wm/niri)** | Compositor Wayland com scrollable-tiling (Rust) |
-| **[Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)** | Desktop shell para compositores Wayland, feito com Quickshell & Go |
-| **[Arch Linux](https://archlinux.org/)** | A lendária distro rolling release (BTW) |
+| **[Niri](https://github.com/niri-wm/niri)** | A scrollable-tiling Wayland compositor (Rust) |
+| **[Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)** | Desktop shell for wayland compositors built with Quickshell & GO |
+| **[Arch Linux](https://archlinux.org/)** | The legendary rolling release distro (BTW) |
 
-### 🛠️ Aplicativos
+### 🛠️ Apps (GUI)
 
-| App | Descrição |
+| App | Description |
 |---|---|
-| **[zapfast](https://zapfast.rocks/)** | Cliente nativo de WhatsApp super rápido (Rust) |
-| **[spotifast](https://spotifast.rocks/)** | Cliente nativo de Spotify super rápido (Rust) |
-| **[Suit All Craft](https://getartcraft.com/)** | Suíte de escritório e muito mais, escrita em Rust (Rust) |
-| **[hylki](https://hylki.app/)** | Um cliente de e-mail moderno para o desktop Linux (Rust) |
+| **[zapfast](https://zapfast.rocks/)** | Super Fast Native WhatsApp client (Rust) |
+| **[spotifast](https://spotifast.rocks/)** | Super Fast Native Spotify client (Rust) |
+| **[Suit All Craft](https://getartcraft.com/)** | Office suite and much more, written in Rust (Rust) |
+| **[hylki](https://hylki.app/)** | A modern email client for the Linux desktop (Rust) |
 
-### 🌐 Navegador
+### 🌐 Browsers
 
-| Ferramenta | Descrição |
+| Tool | Description |
 |---|---|
-| **[Brave Origin](https://brave.com/origin/linux/nightly)** | Navegador focado em privacidade, com bloqueio de anúncios integrado |
+| **[Brave Origin](https://brave.com/origin/linux/nightly)** | Privacy-focused browser with built-in ad blocking |
 
 **🧩 Plugins**
 
-| Plugin | Descrição |
+| Plugin | Description |
 |---|---|
-| [Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=pt-br) | Ferramenta definitiva para turbinar o YouTube com vários recursos altamente personalizáveis |
-| [KeePassXC-Browser](https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk?hl=pt-br) | Integração do KeePassXC com navegadores modernos |
+| [Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=en) | Ultimate tool to supercharge your YouTube experience with a host of highly customizable features |
+| [KeePassXC-Browser](https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk?hl=en) | KeePassXC integration for modern browsers |
 
 ### ⌨️ Terminal
 
-| Ferramenta | Descrição |
+| Tool | Description |
 |---|---|
-| **[Foot](https://codeberg.org/dnkl/foot)** | Emulador de terminal Wayland rápido, leve e minimalista |
-| **[Fish Shell](https://fishshell.com/)** | Shell de linha de comando inteligente e amigável para Linux, macOS e afins |
+| **[Foot](https://codeberg.org/dnkl/foot)** | A fast, lightweight and minimalistic Wayland terminal emulator |
+| **[Fish Shell](https://fishshell.com/)** | fish is a smart and user-friendly command line shell for Linux, macOS, and the rest of the family |
 
 ### ✏️ Editores & IDEs
 
-| Ferramenta | Descrição |
+| Tool | Description |
 |---|---|
-| **[Neovim](https://neovim.io/)** | Editor de texto hiperextensível baseado no Vim |
-| **[gram](https://gram-editor.com/)** | Um editor de código para macacos humanoides e sapos rabugentos |
+| **[Neovim](https://neovim.io/)** | Hyperextensible Vim-based text editor |
+| **[gram](https://gram-editor.com/)** | A code editor for humanoid apes and grumpy toads |
 
-### 🧰 Ferramentas de Terminal (TUI/CLI)
+### 🧰 Terminal Tools (TUI/CLI)
 
-| Ferramenta | Descrição |
+| Tool | Description |
 |---|---|
-| **[try-rs](https://github.com/tassiovirginio/try-rs)** | Workspace manager para experimentos temporários (Rust) |
-| **[sudo-rs](https://github.com/memorysafety/sudo-rs)** | Implementação do sudo com segurança de memória em Rust (Rust) |
-| **[yazi](https://github.com/sxyazi/yazi)** | Gerenciador de arquivos de terminal ultrarrápido |
-| **[superseedr](https://github.com/tassiovirginio/superseedr)** | Ferramenta de seeding |
-| **[yt-x](https://github.com/Benexl/yt-x)** | Navegue no YouTube pelo terminal |
-| **[superfile](https://superfile.dev/)** | Gerenciador de arquivos de terminal perfeito |
-| **[sqlit](https://github.com/Maxteabag/sqlit)** | TUI amigável para bancos de dados SQL |
-| **[bat](https://github.com/sharkdp/bat)** | Um clone do cat com asas |
-| **[cpx](https://github.com/11happy/cpx)** | O cp reimaginado |
-| **[fzf](https://github.com/junegunn/fzf)** | Fuzzy finder de linha de comando |
-| **[fd](https://github.com/sharkdp/fd)** | Alternativa simples, rápida e amigável ao `find` |
-| **[mise](https://github.com/jdx/mise)** | Ferramentas de dev, variáveis de ambiente e task runner |
-| **[thefuck](https://github.com/nvbn/thefuck)** | App magnífico que corrige seu comando anterior no console |
-| **[zoxide](https://github.com/ajeetdsouza/zoxide)** | Um `cd` mais inteligente. Suporta todos os principais shells |
-| **[starship](https://github.com/starship/starship)** | O prompt minimalista, ultrarrápido e infinitamente customizável para qualquer shell |
+| **[try-rs](https://github.com/tassiovirginio/try-rs)** | Workspace manager for temporary experiments (Rust) |
+| **[sudo-rs](https://github.com/memorysafety/sudo-rs)** | Memory-safe implementation of sudo in Rust (Rust) |
+| **[yazi](https://github.com/sxyazi/yazi)** | Blazing fast terminal file manager |
+| **[superseedr](https://github.com/tassiovirginio/superseedr)** | Seeding tool |
+| **[yt-x](https://github.com/Benexl/yt-x)** | Browse YouTube from your terminal |
+| **[superfile](https://superfile.dev/)** | Perfect terminal-based file manager |
+| **[sqlit](https://github.com/Maxteabag/sqlit)** | A user friendly TUI for SQL databases |
+| **[bat](https://github.com/sharkdp/bat)** | A cat clone with wings |
+| **[cpx](https://github.com/11happy/cpx)** | cp reimagined |
+| **[fzf](https://github.com/junegunn/fzf)** | A command-line fuzzy finder |
+| **[fd](https://github.com/sharkdp/fd)** | A simple, fast and user-friendly alternative to `find` |
+| **[mise](https://github.com/jdx/mise)** | Dev tools, env vars, task runner |
+| **[thefuck](https://github.com/nvbn/thefuck)** | Magnificent app which corrects your previous console command |
+| **[zoxide](https://github.com/ajeetdsouza/zoxide)** | A smarter `cd` command. Supports all major shells |
+| **[starship](https://github.com/starship/starship)** | The minimal, blazing-fast, and infinitely customizable prompt for any shell |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FFF,100:FF2BD6&height=3" width="100%" alt="divider"/>
 
@@ -136,39 +136,39 @@ Algumas das ferramentas que eu uso e recomendo:
 
 ### 🦀 [try-rs](https://github.com/tassiovirginio/try-rs)
 
-> Um workspace manager ultrarrápido, feito em Rust, para os seus experimentos temporários.
+> A blazing fast, Rust-based workspace manager for your temporary experiments.
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=0A0E27)](https://www.rust-lang.org/)
-🔗 [Repositório](https://github.com/tassiovirginio/try-rs)
+🔗 [Repository](https://github.com/tassiovirginio/try-rs)
 
 ### 🔬 [DNose](https://github.com/tassiovirginio/dnose)
 
-> Detector de Test Smells para código Dart.
-> Uma ferramenta focada em legibilidade e manutenibilidade de testes.
+> Test Smell detector for Dart code.
+> A tool focused on test readability and maintainability.
 
 [![SBES 2025 Tools](https://img.shields.io/badge/SBES%202025-Tools%20Track-blueviolet?style=for-the-badge&labelColor=0A0E27)](https://cbsoft2025.org)
-🔗 [Site oficial](https://dnose-ts.github.io) • [Demo online](https://dnose.onrender.com) • [DOI (Zenodo)](https://doi.org/10.5281/zenodo.15484918)
+🔗 [Official site](https://dnose-ts.github.io) • [Online demo](https://dnose.onrender.com) • [DOI (Zenodo)](https://doi.org/10.5281/zenodo.15484918)
 
 ### 🧠 [AriesLinter](https://github.com/viRafael/arieslinter)
 
-> Uma ferramenta que **prevê Test Smells antes que eles aconteçam**.
-> Usa heurísticas e análise estática para antecipar problemas em testes Java.
+> A tool that **predicts Test Smells before they happen**.
+> Uses heuristics and static analysis to anticipate issues in Java tests.
 
 [![SBES 2025 Tools](https://img.shields.io/badge/SBES%202025-Tools%20Track-blueviolet?style=for-the-badge&labelColor=0A0E27)](https://cbsoft2025.org)
-🔗 [Repositório no GitHub](https://github.com/viRafael/arieslinter)
+🔗 [GitHub Repository](https://github.com/viRafael/arieslinter)
 
 ### ☕ [JNose](https://github.com/arieslab/jnose)
 
-> Detector de Test Smells para código Java com métricas de cobertura, visualização e suporte a análise histórica.
+> Test Smell detector for Java code with coverage metrics, visualization, and historical analysis support.
 
 [![CBSoft 2020](https://img.shields.io/badge/CBSoft-2020-blue?style=for-the-badge&labelColor=0A0E27)](https://cbsoft2020.ufba.br)
-🔗 [Documentação](https://jnose.readthedocs.io) • [Repositório](https://github.com/arieslab/jnose) • [Site antigo](https://jnosetest.github.io)
+🔗 [Documentation](https://jnose.readthedocs.io) • [Repository](https://github.com/arieslab/jnose) • [Old site](https://jnosetest.github.io)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FFF,100:FF2BD6&height=3" width="100%" alt="divider"/>
 
 ## 🛠️ `> tech_stack`
 
-### Linguagens
+### Languages
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -178,7 +178,7 @@ Algumas das ferramentas que eu uso e recomendo:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### Frameworks & Ferramentas
+### Frameworks & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -188,13 +188,13 @@ Algumas das ferramentas que eu uso e recomendo:
 ![Maven](https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Cargo](https://img.shields.io/badge/cargo-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-### Bancos de Dados
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Outros
+### DevOps & Others
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
