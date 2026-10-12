@@ -3,6 +3,7 @@
 ### Hi there! I'm Tássio 👨‍💻
 
 Professor, researcher, and backend developer
+
 Currently living in **Salvador/BA 🇧🇷**
 
 ---
