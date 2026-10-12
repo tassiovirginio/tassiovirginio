@@ -21,9 +21,26 @@ Currently living in **Salvador/BA 🇧🇷**
 
 ---
 
+## 🚀 Creator of:
+* **[try-rs](https://github.com/tassiovirginio/try-rs)** - Workspace manager for temporary experiments (Rust)
+* **[NeoLeaf](https://neoleaf.science/)** - the online collaborative LaTeX editor that charges you absolutely nothing (Rust)
+
+---
+
 ## 💡 My Toolbox
 
 Here are some of the tools I use and recommend:
+
+### 🖥️ Operating System
+* **[Niri](https://github.com/niri-wm/niri)** - A scrollable-tiling Wayland compositor (Rust)
+* **[Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)** - Desktop shell for wayland compositors built with Quickshell & GO
+* **[Arch Linux](https://archlinux.org/)** - The legendary rolling release distro (BTW)
+
+### 🛠️ Tools (GUI)
+* **[zapfast](https://zapfast.rocks/)** - Super Fast Native whtasapp client (Rust)
+* **[spotifast](https://spotifast.rocks/)** - Super Fast Native spotify client (Rust)
+* **[Suit All Craft](https://getartcraft.com/)** - Office e many write in Rust (Rust)
+* **[hylki](https://hylki.app/)** - A modern email client for the Linux desktop (Rust)
 
 ### 🌐 Browsers
 * **[Brave Origin](https://brave.com/origin/linux/nightly)** - Privacy-focused browser with built-in ad blocking
@@ -38,11 +55,7 @@ Here are some of the tools I use and recommend:
 
 ### ✏️ Editors & IDEs
 * **[Neovim](https://neovim.io/)** - Hyperextensible Vim-based text editor
-
-### 🛠️ Tools (GUI)
-* **[zapfast](https://zapfast.rocks/)** - Super Fast Native whtasapp client (Rust)
-* **[spotifast](https://spotifast.rocks/)** - Super Fast Native spotify client (Rust)
-* **[Suit All Craft](https://getartcraft.com/)** - Office e many write in Rust (Rust)
+* **[gram](https://gram-editor.com/)** - A code editor for humanoid apes and grumpy toads
 
 ### 🛠️ Terminal Tools (TUI/CLI)
 * **[try-rs](https://github.com/tassiovirginio/try-rs)** - Workspace manager for temporary experiments (Rust)
@@ -61,12 +74,6 @@ Here are some of the tools I use and recommend:
 * **[zoxide](https://github.com/ajeetdsouza/zoxide)** - A smarter cd command. Supports all major shells
 * **[starship](https://github.com/starship/starship)** - The minimal, blazing-fast, and infinitely customizable prompt for any shell
 
-
-### 🖥️ Operating System
-* **[Niri](https://github.com/niri-wm/niri)** - A scrollable-tiling Wayland compositor (Rust)
-* **[Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)** - Desktop shell for wayland compositors built with Quickshell & GO
-* **[Arch Linux](https://archlinux.org/)** - The legendary rolling release distro
-
 ---
 
 ## 🌐 Where to find me
@@ -76,8 +83,6 @@ Here are some of the tools I use and recommend:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tassiovirginio)
 [![Lattes](https://img.shields.io/badge/Lattes-007EC6.svg?style=for-the-badge)](http://lattes.cnpq.br/0517470966104640)
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge)](mailto:tassiovirginio+github@gmail.com)
-
-
 
 ---
 
